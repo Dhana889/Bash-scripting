@@ -3,11 +3,11 @@ A variable is a temporary store for a piece of information. There are two action
 - Setting a value for a variable.
 - Reading the value for a variable.
 
-> myname=”Demo_Name”
-> echo $myname = Prints the value Demo_Name
+myname=”Demo_Name”
+echo $myname = Prints the value Demo_Name
 
-> now=$(date)
-> echo $now = Runs the bash command date
+now=$(date)
+echo $now = Runs the bash command date
 
 env = To see the list of environment variables
 
