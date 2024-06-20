@@ -6,7 +6,7 @@ vi or nano myscript.sh = To create a script file
 
 Add script using echo commands:
 
-		#!/bin/bash
+    #!/bin/bash
     #
     echo "Hello $LOGNAME"
     echo "Host name is `hostname`"
