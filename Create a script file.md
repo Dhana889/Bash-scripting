@@ -16,4 +16,5 @@ Add script using echo commands:
     #
 
 sudo chmod +x myscript.sh = To mark the file as executable
+
 ./myscript.sh = To execute the script file
